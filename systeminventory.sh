@@ -35,3 +35,4 @@ dmidecode | grep Family
 
 echo "The mac address is"
 By going on the command prompt,I type ipconfig/all to get a mac address on window. The mac address is identified as physical address on the wireless LAN Wi-fi
+fi
